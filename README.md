@@ -1,2 +1,2 @@
 # FOGT-Kwanty
-Rozwiązanie w pliku jpg.
+Rozwiązanie w pliku png.
